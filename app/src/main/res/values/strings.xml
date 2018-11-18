@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">hw2</string>
+    <string name="title_daily_air_quality">날짜 별 대기질</string>
+    <string name="title_today_fine_dust">오늘의 미세먼지</string>
+    <string name="title_isanhwa">이산화질소 농도: \n(ppm)</string>
+    <string name="title_ozon">오존 농도: \n(ppm)</string>
+    <string name="title_ilsanhwa">일산화탄소 농도: \n(ppm)</string>
+    <string name="title_ahwangsan">아황산가스 농도: \n(ppm)</string>
+    <string name="title_fine_dust">미세먼지 : \n(㎍/㎥)</string>
+    <string name="title_ultra_fine_dust">초미세먼지 : \n(㎍/㎥)</string>
+
+
+    <string name="search">조회</string>
+    <string name="hint_date">20XX년X월X일</string>
+    <string name="hint_area">지역명</string>
+
+    <string name="hw2">HW2-2</string>
+    <string name="url">URL</string>
+    <string name="move_to_url">웹 사이트로 이동</string>
+
+
+</resources>
